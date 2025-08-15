@@ -1,0 +1,2 @@
+pyopenjtalk==0.4.1
+numpy==2.2.6
