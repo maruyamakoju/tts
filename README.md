@@ -1,6 +1,6 @@
-> 依存: ffmpeg が必要（Ubuntu: sudo apt install -y ffmpeg）
-
 # TTS Pipeline (pyopenjtalk + ffmpeg)
+
+> 依存: ffmpeg が必要（Ubuntu: `sudo apt install -y ffmpeg`）
 
 ## 使い方
 ```bash
@@ -10,5 +10,3 @@ ls -1 mp3_final | wc -l
 # 確認（kana/g2p/長さsecを含む）
 head -n 5 index_final.csv
 
-
-```
