@@ -1,0 +1,7 @@
+__pycache__/
+utt_*.wav
+wav_*/
+mp3/
+mp3_final/
+*.zip
+index.csv
