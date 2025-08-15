@@ -4,4 +4,8 @@ wav_*/
 mp3/
 mp3_final/
 *.zip
-index.csv
+# index.csv tracked
+.venv/
+
+# Windows ADS
+*:.Zone.Identifier
