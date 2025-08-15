@@ -1,3 +1,5 @@
+> 依存: ffmpeg が必要（Ubuntu: sudo apt install -y ffmpeg）
+
 # TTS Pipeline (pyopenjtalk + ffmpeg)
 
 ## 使い方
