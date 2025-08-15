@@ -1,0 +1,4 @@
+id,text,wav_path,kana,g2p
+001,おはようございます。本日は晴天です。,utt_001.wav,オハヨーゴザイマス。ホンジツワセーテンデス。,o h a y o o g o z a i m a s U pau h o N j i ts u w a s e e t e N d e s U
+002,本日の会議は10時から開始します。,utt_002.wav,ホンジツノカイギワジュージカラカイシシマス。,h o N j i ts u n o k a i g i w a j u u j i k a r a k a i sh I sh i m a s U
+003,東京特許許可局です。,utt_003.wav,トーキョートッキョキョカキョクデス。,t o o ky o o t o cl ky o ky o k a ky o k u d e s U
