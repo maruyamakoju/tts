@@ -9,13 +9,3 @@ ls -1 mp3_final | wc -l
 head -n 5 index_final.csv
 
 
-
-
-
-
-
-
-
-
-
-```
