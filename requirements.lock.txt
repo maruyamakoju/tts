@@ -1,0 +1,11 @@
+librosa==0.11.0
+llvmlite==0.44.0
+networkx==2.8.8
+numba==0.61.2
+numpy==1.26.4
+tokenizers==0.21.4
+torch==2.2.2+cpu
+torchaudio==2.2.2+cpu
+torchvision==0.17.2+cpu
+transformers==4.49.0
+TTS==0.22.0
