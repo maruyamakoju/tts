@@ -13,3 +13,10 @@ zip:
 
 clean:
 	rm -rf xtts_out wav_final mp3_final_xtts durations.csv index_with_duration.csv
+
+clean:
+	rm -rf xtts_out wav_final mp3_final_xtts durations.csv index_with_duration.csv tts_xtts_release_*.zip
+
+release: zip
+	@LATEST_ZIP=$(ls -t tts_xtts_release_*.zip | head -n1); \
+	gh release upload v1.0-xtts "$$LATEST_ZIP" --clobber
