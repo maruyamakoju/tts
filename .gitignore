@@ -1,11 +1,15 @@
-__pycache__/
-utt_*.wav
-wav_*/
-mp3/
-mp3_final/
+# artifacts
+xtts_out/
+wav_final/
+mp3_final_xtts/
+mp3_min/
+*.wav
 *.zip
-# index.csv tracked
-.venv/
+durations.csv
+index_with_duration.csv
+run.log
 
-# Windows ADS
-*:.Zone.Identifier
+# misc
+__pycache__/
+*.pyc
+.env
