@@ -1,3 +1,5 @@
+**Download:** https://github.com/maruyamakoju/tts/releases/latest
+
 # TTS Pipeline (pyopenjtalk + ffmpeg)
 
 > 依存: ffmpeg が必要（Ubuntu: `sudo apt install -y ffmpeg`）
